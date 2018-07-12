@@ -24,23 +24,19 @@ You can use the learning design standard to help you identify the training you a
 ## Learning Design Standards
 
 ### Agile Delivery
-- [HTML](/assets/lds/agile_delivery)
-- [PDF](/assets/lds/agile_delivery/pdf.pdf)
-- [Word](/assets/lds/agile_delivery/word.docx)
+- [PDF](https://github.com/govau/learning-design-standards/blob/master/agile_delivery/pdf.pdf)
+- [Word](https://github.com/govau/learning-design-standards/raw/master/agile_delivery/word.docx)
 
 ### Content Design
-- [HTML](/assets/lds/content_design)
-- [PDF](/assets/lds/content_design/pdf.pdf)
-- [Word](/assets/lds/content_design/word.docx)
+- [PDF](https://github.com/govau/learning-design-standards/blob/master/content_design/pdf.pdf)
+- [Word](https://github.com/govau/learning-design-standards/raw/master/content_design/word.docx)
 
 ### Digital Foundations
-- [HTML](/assets/lds/digital_foundations)
-- [PDF](/assets/lds/digital_foundations/pdf.pdf)
-- [Word](/assets/lds/digital_foundations/word.docx)
+- [PDF](https://github.com/govau/learning-design-standards/blob/master/digital_foundations/pdf.pdf)
+- [Word](https://github.com/govau/learning-design-standards/raw/master/digital_foundations/word.docx)
 
 ### User Research
-- [HTML](/assets/lds/user_research)
-- [PDF](/assets/lds/user_research/pdf.pdf)
-- [Word](/assets/lds/user_research/word.docx)
+- [PDF](https://github.com/govau/learning-design-standards/blob/master/user_research/pdf.pdf)
+- [Word](https://github.com/govau/learning-design-standards/commits/master/user_research/word.docx)
 
-To procure training visit the [digital marketplace](https://marketplace.service.gov.au/)
+To procure training visit the [Digital Marketplace.](https://marketplace.service.gov.au/)
