@@ -7,7 +7,8 @@ These learning design standards are blueprints for learning and development and 
 They will :
 
 - Give APS employees the opportunity to learn new digital skills so that they are qualified to move into new and diverse roles
-Help managers understand, recognise and build digital skills within teams so the service they provide meets the Digital Service Standard, without outsourcing to contractors
+
+- Help managers understand, recognise and build digital skills within teams so the service they provide meets the Digital Service Standard, without outsourcing to contractors
 
 - Provide the framework for learning and training future and existing APS employees
 
