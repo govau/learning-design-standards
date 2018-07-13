@@ -1,8 +1,3 @@
----
-layout: page
-title: Learning Design Standards
----
-
 The Australian Public Service Commission and the Digital Transformation Agency have been working with various community groups on the first drafts of the Building Digital Capability Learning Design Standards.
 
 These learning design standards are blueprints for learning and development and will guide APS training for digital skills. They set out things, that based on user research, public servants need to know, do and be in a digital world. This includes areas like agile delivery, content design, cyber security and cloud.
