@@ -1,4 +1,7 @@
-# Learning Design Standards
+---
+layout: page
+title: Learning Design Standards
+---
 
 The Australian Public Service Commission and the Digital Transformation Agency have been working with various community groups on the first drafts of the Building Digital Capability Learning Design Standards.
 
