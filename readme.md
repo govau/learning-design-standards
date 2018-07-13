@@ -4,21 +4,21 @@ Digital learning design standards set the bar for what makes a good digital spec
 
 You can use the standards to help identify the training you and your team need to develop digital skills, and to help providers respond to your training requests.
 
-## Download Digital Learning Design Standards
+### Download Digital Learning Design Standards
 
-### Digital foundations
+#### Digital foundations
 - [PDF](https://github.com/govau/learning-design-standards/raw/master/digital-foundations/digital-foundations-lds.pdf)
 - [Word](https://github.com/govau/learning-design-standards/raw/master/digital-foundations/digital-foundations-lds.docx)
 
-### Agile delivery
+#### Agile delivery
 - [PDF](https://github.com/govau/learning-design-standards/raw/master/agile-delivery/agile-delivery-lds.pdf)
 - [Word](https://github.com/govau/learning-design-standards/raw/master/agile-delivery/agile-delivery-lds.docx)
 
-### User research
+#### User research
 - [PDF](https://github.com/govau/learning-design-standards/raw/master/user-research/user-research-lds.pdf)
 - [Word](https://github.com/govau/learning-design-standards/raw/master/user-research/user-research-lds.docx)
 
-### Content design
+#### Content design
 - [PDF](https://github.com/govau/learning-design-standards/raw/master/content-design/content-design-lds.pdf)
 - [Word](https://github.com/govau/learning-design-standards/raw/master/content-design/content-design-lds.docx)
 
